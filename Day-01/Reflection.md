@@ -2,7 +2,7 @@
 
 Learned 
 
-- why virtual machines are important in cybersecurity. They allow me to practise safely without affecting my real computer, which gives me more confidence to experiment and learn.
+- why virtual machines are important in cybersecurity. As they allow me to practise safely without affecting my real computer, which gives me more confidence to experiment and learn.
 - About Security Operations Centers (SOC), SIEM, and the difference between the Blue Team and the Red Team.
 - I now understand that the Blue Team focuses on defending systems, while the Red Team tests security by thinking like an attacker.
 - I also learned that a SIEM collects logs, helps detect suspicious activity, and supports SOC analysts during investigations.
