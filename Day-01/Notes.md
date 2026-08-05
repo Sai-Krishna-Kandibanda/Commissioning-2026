@@ -4,13 +4,18 @@
 
 ## What is a Security Operations Center (SOC)?
 
-A Security Operations Centre (SOC) is a team of cybersecurity professionals whose main job is to protect an organisation's computers, networks, and data from cyber threats. They continuously monitor systems, look for unusual activity, investigate alerts, and respond to security incidents before they become bigger problems.
+A Security Operations Centre (SOC) is a team of cybersecurity professionals whose main job is to protect an organisation's computers, networks, and data from cyber threats. 
 
-For example, a SOC is like the security control room in a shopping mall or an airport. Security guards monitor CCTV cameras and alarms to ensure everything is safe. If they notice something suspicious, they investigate and take action. In the same way, a SOC watches over an organisation's digital environment instead of a physical building.
+They continuously monitor systems, look for unusual activity, investigate alerts, and respond to security incidents before they become bigger problems.
+
+For example, a SOC is like the security control room in a shopping mall or an airport. Security guards monitor CCTV cameras and alarms to ensure everything is safe. 
+
+If they notice something suspicious, they investigate and take action. In the same way, a SOC watches over an organisation's digital environment instead of a physical building.
 
 ## Purpose
 
 A SOC helps reduce the impact of cyberattacks by identifying suspicious activity early. 
+
 Instead of waiting until a hacker causes serious damage, the SOC tries to detect the warning signs and stop the attack before it spreads.
 
 ## Responsibilities
@@ -29,8 +34,11 @@ These responsibilities help keep the organisation's systems secure and reduce th
 
 Different team members and responsibilities.
 **Tier 1 (Level 1) SOC Analyst** is the first person to review security alerts. They monitor systems, investigate basic alerts, and decide whether an issue needs further investigation.
+
 **Tier 2 (Level 2) SOC Analyst** handles more complex incidents. They investigate suspicious activity in greater detail and work to contain security incidents.
+
 **Tier 3 (Level 3) SOC Analyst** is the most experienced technical analyst. They deal with advanced threats, perform deeper investigations, and help improve detection methods.
+
 **SOC Manager** leads the team, assigns work, ensures incidents are handled properly, and helps improve the overall security operations.
 
 ## My Understanding
@@ -79,8 +87,10 @@ For example, SIEM may detect repeated failed login attempts, malware activity, o
 
 ## My Understanding
 
-SIEM is one of the most important tools used in a Security Operations Center. 
+SIEM is one of the most important tools used in a Security Operations Center.
+
 It saves time by collecting logs into one place, helps analysts connect related events, creates alerts when something looks suspicious, and supports the detection of cyber threats. 
+
 It's the "eyes and ears" of a SOC because it helps security teams see what is happening across an organisation's systems.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
