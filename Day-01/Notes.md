@@ -33,6 +33,7 @@ These responsibilities help keep the organisation's systems secure and reduce th
 ## Team Structure
 
 Different team members and responsibilities.
+
 **Tier 1 (Level 1) SOC Analyst** is the first person to review security alerts. They monitor systems, investigate basic alerts, and decide whether an issue needs further investigation.
 
 **Tier 2 (Level 2) SOC Analyst** handles more complex incidents. They investigate suspicious activity in greater detail and work to contain security incidents.
